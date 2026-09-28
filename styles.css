@@ -15,17 +15,17 @@
 }
 :root {
   /* 配色层级：墨绿主标题、古铜次标题、深灰正文、香槟色细线。 */
-  --text: #343c38;
-  --muted: #6d746d;
-  --accent: #42635b;
-  --heading: #254a40;
-  --subheading: #7c6348;
-  --gold: #b8a27d;
-  --heading-wash: #edf1ea;
-  --body-size: 19px;
-  --title-size: 32px;
-  --line: #e1ddd3;
-  --background: #fbfaf6;
+  --text: #443e3b;
+    --muted: #887c76;
+    --accent: #e28055;       /* 主浅橘棕 */
+    --heading: #d46b48;
+    --subheading: #b88668;
+    --gold: #d49b79;
+    --heading-wash: #fff3ee;
+    --body-size: 18px;
+    --title-size: 36px;
+    --line: #f0e4dd;
+    --background: #fffaf6;   /* 暖白色背景 */
 }
 * { box-sizing: border-box; }
 html { scroll-padding-top: 94px; scroll-behavior: smooth; }
